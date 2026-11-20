@@ -5,10 +5,10 @@
 
 ### 3rd Year Applied Economics Student | Passionate about Data Analytics & Real-world Problem Solving
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hoang-dinh-long-685895352//">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dinhlong1507@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
@@ -20,9 +20,9 @@
 
 ## About Me
 
-- 🎓 Student interested in **Data Analytics and Applied Research**
-- 🌱 Core Skills **Python (Pandas, Numpy), SQL, Power BI, Excel and Time-Series Econometrics**
-- 📊 I'm always feel free to discuss **Data Processing, Data Visualization, Time-Series, Econometrics, Dashboard and Business Intelligence**
+- Currently seeking Internship / Fresher or Junior opportunities as a Data Analyst / Business Analytics
+- Core Skills **Python (Pandas, Numpy), SQL, Power BI, Excel and Time-Series Econometrics**
+- I'm always feel free to discuss **Data Processing, Data Visualization, Time-Series, Econometrics, Dashboard and Business Intelligence**
 
 ---
 
