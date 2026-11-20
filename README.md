@@ -5,7 +5,7 @@
 
 ### 3rd Year Applied Economics Student | Passionate about Data Analytics & Real-world Problem Solving
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hoang-dinh-long-685895352//">
+<a href="https://www.linkedin.com/in/https:/www.linkedin.com/in/hoang-dinh-long-685895352/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:dinhlong1507@gmail.com">
@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
